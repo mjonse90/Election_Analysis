@@ -15,7 +15,9 @@ Software: Python 3.9.7, Visual Studio Code 1.38.1
 
 ## Summary
 Here are the results from the following election:
+
 Total votes: 369,711
+
 Candidates:
   - Charles Casper Stockham
         -85,213 votes
