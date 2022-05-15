@@ -26,6 +26,7 @@ Candidates:
   - Raymon Anthony Doane
         -11,606 votes
         -3.1% of the vote
+
 The winner is:
     Diana DeGette with 73.8% of the vote and 272,892 votes.
     
