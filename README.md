@@ -20,14 +20,19 @@ Total votes: 369,711
 
 Candidates:
   - Charles Casper Stockham
-        :85,213 votes
-        :23.0% of the vote
+  
+        85,213 votes
+        23.0% of the vote
+
   - Diana DeGette
-        :272,892 votes
-        :73.8% of the vote
+  
+        272,892 votes
+        73.8% of the vote
+
   - Raymon Anthony Doane
-        :11,606 votes
-        :3.1% of the vote
+  
+        11,606 votes
+        3.1% of the vote
 
 The winner is:
     Diana DeGette with 73.8% of the vote and 272,892 votes.
